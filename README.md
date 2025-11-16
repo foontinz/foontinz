@@ -1,8 +1,6 @@
 ## Sup 👋
 
-My name is Dmytro, Dima for friends. CS student in Warsaw.                                    
-Now I am working fulltime as a Software Engineer for a 2+ years now.                   
-Previously freelanced in 2022-2023. 
+My name is Dmytro, Dima for friends. Fulltime Software Engineer in Warsaw.                                    
 
 - **Technologies**: Python, Golang, JS, Rust.
 - **Domain**: Fin-tech, automation, data-analysis, infrastructure-engineering, game-dev.
